@@ -29,17 +29,17 @@ Numbers
 
 [**Prime Factorization**](https://github.com/grobins2/Projects/blob/master/Numbers/primefactors.py) – Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
-[**Next Prime Number**](https://github.com/grobins2/Projects/blob/master/Numbers/next_prime.py) – Have the program find prime numbers until the user chooses to stop asking for the next one.
+[**Next Prime Number**](https://github.com/grobins2/Projects/blob/master/Numbers/nextprime/) – Have the program find prime numbers until the user chooses to stop asking for the next one.
 
-[**Find Cost of Tile to Cover W x H Floor**](https://github.com/grobins2/Projects/blob/master/Numbers/tile.py) – Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
+**Find Cost of Tile to Cover W x H Floor** – Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
 
 **Mortgage Calculator** – Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan.
 
-[**Change Return Program**](https://github.com/grobins2/Projects/blob/master/Numbers/change.py) – The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
+**Change Return Program** – The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
 
-[**Binary to Decimal and Back Converter**](https://github.com/grobins2/Projects/blob/master/Numbers/binary_decimal.py) – Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
+**Binary to Decimal and Back Converter** – Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
 
-[**Calculator**](https://github.com/grobins2/Projects/blob/master/Numbers/calc.py) – A simple calculator to do basic operators. Make it a scientific calculator for added complexity.
+**Calculator** – A simple calculator to do basic operators. Make it a scientific calculator for added complexity.
 
 **Unit Converter (temp, currency, volume, mass and more)** – Converts various units between one another. The user enters the type of unit being entered, the type of unit they want to convert to and then the value. The program will then make the conversion.
 
